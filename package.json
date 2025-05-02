@@ -1,0 +1,10 @@
+{
+  "name": "another-mess-receptorium",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [],
+  "author": "nazarpunk",
+  "contributors": [],
+  "license": "MIT",
+  "type": "module"
+}
